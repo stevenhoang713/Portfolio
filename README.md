@@ -9,4 +9,4 @@ Welcome to my data hub! This is where I share insights into my experiences and a
 
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-| New-Wheels Business Insights | Business Performance Analysis | Leveraging MySQL, I answered business questions regarding customer distribution, quarterly ratings, satisfaction trends, preferred vehicle makers, state preferences, order trends, revenue changes, discounts, and shipping times.
+| New-Wheels Business Insights | Business Performance Analysis | Using MySQL, I addressed business queries involving customer distribution, quarterly ratings, satisfaction trends, preferred vehicle makers, state preferences, order and revenue trends, discounts, and shipping times.
