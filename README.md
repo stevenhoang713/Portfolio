@@ -18,4 +18,4 @@ Welcome to my data hub! This is where I share insights into my experiences and a
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| [🎮 Gamers' Arena](https://github.com/stevenhoang713/Gamers-Arena/tree/main) | I'm analyzing Gamers' Arena's extensive video game data, providing insights into sales, user ratings, and platform preferences. The goal is to create a dynamic dashboard that guides stakeholders in formulating a successful subscription model. | Dashboard Link | [Dashboard](https://public.tableau.com/views/GamersArenaProject_16922536832620/GamersArenaDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+| [🎮 Gamers' Arena](https://github.com/stevenhoang713/Gamers-Arena/tree/main) | I'm analyzing Gamers' Arena's extensive video game data, providing insights into sales, user ratings, and platform preferences. The goal is to create a dynamic dashboard that guides stakeholders in formulating a successful subscription model. | Dashboard Link | [Dashboard](https://public.tableau.com/app/profile/steven.hoang/viz/GamersArenaProject_16922536832620/GamersArenaDashboard)
