@@ -17,9 +17,9 @@ Welcome to my data hub! This is where I share insights into my experiences and a
 
 # Tableau 
 
-| Project Link | Project Description | Dashboard Link |
+| Project Description | Dashboard Link | Project Link |
 |---|---|---|
-| [🎮 Gamers' Arena](https://github.com/stevenhoang713/UT-Austin-Data-Analytics-Essentials-Program/blob/main/Business%20Analytics%20Case%20Study/README.md) | I provided insights into sales, user ratings, and platform preferences by analyzing Gamers' Arena's extensive video game data. The goal was to create a dynamic dashboard that guides stakeholders in formulating a successful subscription model. | [Dashboard](https://public.tableau.com/app/profile/steven.hoang/viz/GamersArenaProject_16922536832620/GamersArenaDashboard)
+| I provided insights into sales, user ratings, and platform preferences by analyzing Gamers' Arena's extensive video game data. The goal was to create a dynamic dashboard that guides stakeholders in formulating a successful subscription model. | [Dashboard](https://public.tableau.com/app/profile/steven.hoang/viz/GamersArenaProject_16922536832620/GamersArenaDashboard) | 🎮 [Gamers' Arena](https://github.com/stevenhoang713/UT-Austin-Data-Analytics-Essentials-Program/blob/main/Business%20Analytics%20Case%20Study/README.md) |
 
 ***
 
