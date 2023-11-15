@@ -9,9 +9,9 @@ Welcome to my data hub! This is where I share insights into my experiences and a
   
 # SQL
 
-| Project Link | Area of Analysis | Project Description |
+| Project Description | Area of Analysis | Project Link |
 |---|---|---|
-| [🚙 New-Wheels Business Insights](https://github.com/stevenhoang713/UT-Austin-Data-Analytics-Essentials-Program/blob/main/Automotive%20Retail%20Analytics%20Case%20Study.md) | Business Performance Analysis | Using MySQL, I addressed business queries involving customer distribution, quarterly ratings, satisfaction trends, preferred vehicle makers, state preferences, order and revenue trends, discounts, and shipping times.
+|  Using MySQL, I addressed business queries involving customer distribution, quarterly ratings, satisfaction trends, preferred vehicle makers, state preferences, order and revenue trends, discounts, and shipping times. | Business Performance Analysis | 🚙 [New-Wheels Business Insights](https://github.com/stevenhoang713/UT-Austin-Data-Analytics-Essentials-Program/blob/main/Automotive%20Retail%20Analytics%20Case%20Study.md) |
 
 ***
 
